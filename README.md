@@ -1,8 +1,9 @@
-Machine_Learning_Assessment_Task_by_Ztrios
+** Machine_Learning_Assessment_Task_by_Ztrios **
 
 To run follow instructions
 
 Task -1:
+
 For Approach -1:
 - Download Holistic Edge Detection pre-trained model and Deploy.prototxt from Here. (https://www.kaggle.com/code/baskarsettu/holistic-edge-detection) 
 - download Dataset (https://drive.google.com/drive/folders/1dZgsgXN5L8fJqHHbPJalAyv3mixn58TH?usp=sharing)

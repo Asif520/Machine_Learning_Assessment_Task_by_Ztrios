@@ -1,4 +1,4 @@
-** Machine_Learning_Assessment_Task_by_Ztrios **
+**Machine_Learning_Assessment_Task_by_Ztrios**
 
 To run follow instructions
 

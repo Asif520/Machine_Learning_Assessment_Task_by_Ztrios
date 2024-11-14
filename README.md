@@ -4,11 +4,11 @@ To run follow instructions
 
 Task -1:
 For Approach -1:
-    -Download Holistic Edge Detection pre-trained model and Deploy.prototxt from Here. (https://www.kaggle.com/code/baskarsettu/holistic-edge-detection) 
-    * download Dataset (https://drive.google.com/drive/folders/1dZgsgXN5L8fJqHHbPJalAyv3mixn58TH?usp=sharing)
-    -download the jupyter (.ipynb) file to run in Notebook or copy all code and paste into a Python IDE
-    -Then change the image directory
-    -Run all cells or code.
+    - Download Holistic Edge Detection pre-trained model and Deploy.prototxt from Here. (https://www.kaggle.com/code/baskarsettu/holistic-edge-detection) 
+    - download Dataset (https://drive.google.com/drive/folders/1dZgsgXN5L8fJqHHbPJalAyv3mixn58TH?usp=sharing)
+    - download the jupyter (.ipynb) file to run in Notebook or copy all code and paste into a Python IDE
+    - Then change the image directory
+    - Run all cells or code.
     
 For Approach -2:
     -download the jupyter (.ipynb) file to run in Notebook or copy all code and paste into a Python IDE
